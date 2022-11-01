@@ -19,7 +19,7 @@ A publisher can create a ‘Series’ consisting of multiple leveled badges for 
 In the process of upgrading the badge, a lower-level badge is burned and replaced with a higher-level badge. There is no additional fee for upgrading badges except for the gas fee.
 
 :::note
-<b>Note</b>: If you have claimed 2 or more of the below badge series before the feature update, you will be reimbursed for all previous minting fees, except for the first minting fee in a given series. The reimbursement will be made automatically if/when you upgrade your badge.
+If you have claimed 2 or more of the below badge series before the feature update, you will be reimbursed for all previous minting fees, except for the first minting fee in a given series. The reimbursement will be made automatically if/when you upgrade your badge.
 :::
 
 Badges applicable for minting fee reimbursement:
