@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Okay',
   tagline: 'docstest',
-  url: 'https://docs.ryujjam.xyz',
+  url: 'https://ryujjam.xyz',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
