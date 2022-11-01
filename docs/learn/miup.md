@@ -4,11 +4,9 @@ displayed_sidebar: learnSidebar
 ---
 import Figure from '../components/figure'
 
-# Upgrade & Migrate Badge
+# Upgrade Badge
 
-## Series and Badge Upgrade
-
-### Introducing Series and Badge Upgrade
+## Introducing Series and Badge Upgrade
 
 Noox offers publishers the ability to create progressive badges called 'Series' that are meant to represent one's progression into a particular achievement system.
 
@@ -35,7 +33,7 @@ Badges applicable for minting fee reimbursement:
 - [reNFT Lend](https://noox.world/badge/104577845207406739233498577831854075688817521750848206372017175842561722417287)
 <br class="in" />
 
-### How Upgrade Works
+## How Upgrade Works
 
 ![upgrade1](/img/upgrade1.png)
 
@@ -48,7 +46,7 @@ The ‘Upgrade’ button can be found on the detail page of a badge. Make sure t
 ![upgrade3](/img/upgrade3.png)
 
 Once the upgrade is completed, your previous 'Ethereum Rare User' badge will be burned and replaced with the 'Ethereum Super Rare User' badge.
-
+<!-- 
 <br class="in" />
 
 ## Migration
@@ -77,4 +75,4 @@ After clicking ‘Migrate’, you will need to confirm this transaction on your 
 
 ![migrate3](/img/migrate3.png)
 
-Once the migration is completed, ‘Ukraine DAO Donator’ V1 badge will be burned and replaced with ‘Ukraine DAO Donator’ V2 badge.
+Once the migration is completed, ‘Ukraine DAO Donator’ V1 badge will be burned and replaced with ‘Ukraine DAO Donator’ V2 badge. -->
